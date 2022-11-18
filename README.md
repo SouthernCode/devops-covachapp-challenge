@@ -30,6 +30,7 @@ We also need a lot of help with observability and secret environment variables! 
 - Be ready to explain why you’re doing things a certain way.
 - Feel free to add more features! We’re curious about what you can think of. We’d expect the same if you worked with us.
 - The 'product' and 'search' services are synched via RabbitMQ, we are using a free cloudamqp account [https://www.cloudamqp.com/]
+     IMPORTANT: find and replace YOUR_AMPQ_KEY_URL_GOES_HERE with your credentials after you get your account set up
 
 ## Tasks
 
