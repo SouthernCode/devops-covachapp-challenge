@@ -23,6 +23,12 @@ We also need a lot of help with observability and secret environment variables! 
 # Check the link below for a graphic schema
 # [Excalidraw schema](https://excalidraw.com/#json=SuEz9hJp7PNMQqwuBYgW8,iGzIvhocOKmqSN3-EyAIXw)
 
+# IMPORTANT:
+clone/upload/fork it to a PRIVATE git repository (Very important that the solution is not public). 
+If it is a private repository, give permission to:
+nicolas.bagatello@southerncode.us
+alexisgiovoglanian@southerncode.us
+
 ## Notes
 
 - Make sure the solution is private, not public. Only available for you and us. (OBVIOUSLY, WE KNOW :D)
